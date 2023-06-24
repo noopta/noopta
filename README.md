@@ -6,9 +6,13 @@ I enjoy coding in my spare time, whether it be competitive programming, side pro
 
 ### Some of my languages 👨‍🚀
 
+Here are some of the languages I use on a day-to-day basis.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noopta&layout=pie&theme=dracula&exclude_repo=course_scheduler,noopta.github.io,Portfolio,e-commerce-site,OldPortfolioPage)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My stats! ✔️
+
+Check out my summarized contributions below.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noopta&theme=dracula&card_width=700)](https://git.io/streak-stats)
 <!--
