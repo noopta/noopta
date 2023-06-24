@@ -4,8 +4,7 @@ My name's Anupta and I'm currently a Software Engineer at Toronto-Dominion Bank,
 
 I enjoy coding in my spare time, whether it be competitive programming, side projects, hackathons, or my own side projects. You'll find projects here in various languages, but I'm a back-end developer at the core. Can't get enough of highly performant Kotlin, Java, Go, and C code :)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noopta&theme=dracula)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noopta&theme=dracula&card_width=700)](https://git.io/streak-stats)
 <!--
 **noopta/noopta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
