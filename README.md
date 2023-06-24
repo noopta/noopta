@@ -4,7 +4,7 @@ My name's Anupta and I'm currently a Software Engineer at Toronto-Dominion Bank,
 
 I enjoy coding in my spare time, whether it be competitive programming, side projects, hackathons, or my own side projects. You'll find projects here in various languages, but I'm a back-end developer at the core. Can't get enough of highly performant Kotlin, Java, Go, and C code :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noopta&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noopta&layout=pie&theme=dracula&exclude_repo=course_scheduler,noopta.github.io,Portfolio,e-commerce-site,OldPortfolioPage)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noopta&theme=dracula&card_width=700)](https://git.io/streak-stats)
 <!--
