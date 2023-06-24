@@ -14,7 +14,7 @@ Here are some of the languages I use on a day-to-day basis.
 
 Check out my summarized contributions below.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noopta&theme=dracula&card_width=700)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noopta&theme=dracula&card_width=700)](https://git.io/streak-stats)
 <!--
 **noopta/noopta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
