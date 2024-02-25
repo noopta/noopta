@@ -2,7 +2,7 @@
 
 My name's Anupta and I'm currently a Software Engineer at Toronto-Dominion Bank, based in Toronto, Ontario.
 
-I enjoy coding in my spare time, whether it be competitive programming, side projects, hackathons, or my own side projects. You'll find projects here in various languages, but I'm a back-end developer at the core.
+I enjoy coding in my spare time, whether it be competitive programming, side projects, hackathons, or my own side projects. You'll find projects here in various languages, but my experiences are primarily in full-stack development.
 
 ### Some of my languages 👨‍🚀
 
